@@ -22,4 +22,8 @@ six==1.12.0
 soupsieve==1.9.2
 sqlparse==0.3.0
 urllib3==1.24.2
+<<<<<<< HEAD
 whitenoise==4.1.3
+=======
+whitenoise==4.1.3
+>>>>>>> 2722782155d3dd78e6b623be5be5d0538080e782

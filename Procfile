@@ -1,1 +1,1 @@
-web: gunicorn DjangoCraigslist.wgsi
+web: gunicorn DjangoCraigslist.wsgi
