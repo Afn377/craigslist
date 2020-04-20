@@ -1,1 +1,1 @@
-web: gunicorn Craigslist.wgsi
+web: gunicorn DjangoCraigslist.wgsi
